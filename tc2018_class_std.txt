@@ -18,6 +18,6 @@ ID,CALL,CN,TYPE
 05405403,G-CJEB,JE,Peter Scholz (ASW 24)
 00000000,D-2435,ZK,Philipp Rekitt (LS 8)
 06DD9286,D-7348,B3,René Wille (Discus 2b)
-00000000,D-2579,6N,Justin Ellmer (LS 8)
+06DDFD1E,D-2579,6N,Justin Ellmer (LS 8)
 06DDF9E8,D-4452,DOC,Steffen Losch (Discus 2b)
 06DDD7EC,D-5463,BI,Jörg Schlautmann (LS 8)
