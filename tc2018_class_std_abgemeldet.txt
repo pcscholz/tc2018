@@ -1,0 +1,3 @@
+ID,CALL,CN,TYPE
+06DDF9E8,D-4452,DOC,Steffen Losch (Discus 2b)
+06DDD7EC,D-5463,BI,Jörg Schlautmann (LS 8)
