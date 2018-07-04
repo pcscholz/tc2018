@@ -12,8 +12,8 @@ ID,CALL,CN,TYPE
 06DF1244,D-8028,28,Frank Rodewald (ASW 28)
 06DD9E1A,D-5525,DA,Bastian Hörber (Discus a)
 06DD9DA6,D-5992,Z,Torsten Kleinblotekamp (Discus CS)
-06DDD281,D-KSLS,LS,Dr. Matthäus Müller (Discus bT)
-06DD9599,D-KCBP,BP,Franz Poch (Discus 2T)
+06DDD281,D-KSLS,LS,Dr. Matthäus Müller (Discus bT) ***
+06DD9599,D-KCBP,BP,Franz Poch (Discus 2T) *** NoTrack NoIdent
 00000000,D-KLHI,HI,Sebastian Schwarz (Discus 2bt)
 05405403,G-CJEB,JE,Peter Scholz (ASW 24)
 00000000,D-2435,ZK,Philipp Rekitt (LS 8)
