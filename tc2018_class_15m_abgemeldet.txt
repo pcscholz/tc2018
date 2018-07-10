@@ -1,0 +1,3 @@
+ID,CALL,CN,TYPE
+00000000,D-KSMF,XV,Herbert Horbrügger (ASG 29 E)
+06DD9901,D-KTHG,HG,Maximilian Reuter (ASG 29 Es)
