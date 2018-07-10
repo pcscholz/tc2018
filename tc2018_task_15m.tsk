@@ -23,12 +23,6 @@
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="Anspach Taunus" id="0" comment="EDFA 121.025" altitude="335.0">
-      <Location longitude="8.5352778" latitude="50.2888889"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
   <Point type="Finish">
     <Waypoint name="Anspach Taunus" id="0" comment="EDFA 121.025" altitude="335.0">
       <Location longitude="8.5352778" latitude="50.2888889"/>
