@@ -1,39 +1,33 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Anspach Taunus" id="0" comment="EDFA 121.025" altitude="335.0">
-      <Location longitude="8.5352778" latitude="50.2888889"/>
+    <Waypoint name="AP5 Riedelbach/Ts." id="0" comment="" altitude="487.0">
+      <Location longitude="8.3841667" latitude="50.3025"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="Bottenhorn" id="0" comment="EDGT 123.8" altitude="516.0">
-      <Location longitude="8.4608333" latitude="50.7947222"/>
+  <Point type="Area">
+    <Waypoint name="Willingen Iberg" id="0" comment="" altitude="720.0">
+      <Location longitude="8.6175" latitude="51.2966667"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="40000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="Idar Oberstein" id="0" comment="EDRG 122.85" altitude="475.0">
-      <Location longitude="7.3361111" latitude="49.7322222"/>
+  <Point type="Area">
+    <Waypoint name="Idar-Oberstein/Goettschied" id="0" comment="" altitude="480.0">
+      <Location longitude="7.3381" latitude="49.7325"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="Elz" id="0" comment="EDFY 123.6" altitude="213.0">
-      <Location longitude="8.01" latitude="50.4266667"/>
+  <Point type="Area">
+    <Waypoint name="Marburg-Schoenstadt" id="0" comment="" altitude="254.0">
+      <Location longitude="8.815" latitude="50.87445"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="Anspach Taunus" id="0" comment="EDFA 121.025" altitude="335.0">
-      <Location longitude="8.5352778" latitude="50.2888889"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Anspach Taunus" id="0" comment="EDFA 121.025" altitude="335.0">
-      <Location longitude="8.5352778" latitude="50.2888889"/>
+    <Waypoint name="ZP Anspach/Taunus" id="0" comment="" altitude="330.0">
+      <Location longitude="8.5366667" latitude="50.28945"/>
     </Waypoint>
-    <ObservationZone type="Line" length="1000.0"/>
+    <ObservationZone type="Cylinder" radius="4000.0"/>
   </Point>
 </Task>
 
