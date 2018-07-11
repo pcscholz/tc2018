@@ -1,5 +1,5 @@
 ID,CALL,CN,TYPE
-00000000,D-1876,4Z,Stefan Lichtmannecker (Ventus 2a)
+06DF0FD0,D-1876,4Z,Stefan Lichtmannecker (Ventus 2a)
 00000000,D-KMIP,S,Michael Pfennig (JS 3)
 00000000,D-3080,TM,Thomas Krausert (LS8 a)
 06DDEDC4,D-9866,EL,Sören Nölke (Discus 2)
